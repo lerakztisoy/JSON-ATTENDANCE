@@ -1,0 +1,28 @@
+{
+"students": [
+{
+"name": "Lerakz",
+"age": 21,
+"email": "Lerakz@gmail.com",
+"isPresent": false
+},
+{
+"name": "Hannah",
+"age": 22,
+"email": "Hannah@gmail.com",
+"isPresent": true,
+},
+{
+"name": "Sunshine",
+"age": 24,
+"email": "Sunshine@gmail.com",
+"isPresent": true,
+},
+{
+"name": "Axyl",
+"age": 22,
+"email": "Axyl@gmail.com",
+"isPresent": false,
+}
+]
+}
