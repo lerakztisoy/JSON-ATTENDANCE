@@ -3,25 +3,25 @@
 {
 "name": "Lerakz",
 "age": 21,
-"section": "A",
+"email": "lerakz@gmail.com",
 "isPresent": false,
 },
 {
 "name": "Hannah",
 "age": 22,
-"section": "A",
+"email": "Hannah@gmail.com",
 "isPresent": true,
 },
 {
 "name": "Sunshine",
 "age": 24,
-"section": "B",
+"email": "Sunshine@gmail.com",
 "isPresent": true,
 },
 {
 "name": "Axyl",
 "age": 22,
-"section": "A",
+"email": "Axyl@gmail.com",
 "isPresent": false,
 }
 ]
