@@ -3,25 +3,25 @@
 {
 "name": "Lerakz",
 "age": 21,
-"section": A,
+"section": "A",
 "isPresent": false,
 },
 {
 "name": "Hannah",
 "age": 22,
-"section": A,
+"section": "A",
 "isPresent": true,
 },
 {
 "name": "Sunshine",
 "age": 24,
-"section": B,
+"section": "B",
 "isPresent": true,
 },
 {
 "name": "Axyl",
 "age": 22,
-"section": A,
+"section": "A",
 "isPresent": false,
 }
 ]
