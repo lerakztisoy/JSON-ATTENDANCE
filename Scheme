@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "Name": "Juan Delacruz",
+            "Age": "21",
+            "Course": " EMC ",
+            "Email Adress": "Juan Delacruz@gmail.com"
+        },
+    ]
+}
