@@ -1,0 +1,28 @@
+{
+"Kpop": [
+{
+"name": "Hoshi",
+"age": 21,
+"email": "Hoshi@gmail.com",
+"gender": men,
+},
+{
+"name": "Lisa",
+"age": 22,
+"email": "Lisa@gmail.com",
+"dancer": women,
+},
+{
+"name": "SXo",
+"age": 24,
+"email": "SXogmail.com",
+"dancer": women,
+},
+{
+"name": "Sungkwan",
+"age": 22,
+"email": "Sungkwan@gmail.com",
+"isPresent": women,
+}
+]
+}
