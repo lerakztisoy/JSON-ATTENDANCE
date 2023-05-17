@@ -1,28 +1,31 @@
 {
-"Kpop": [
-{
-"name": "Hoshi",
-"age": 21,
-"email": "Hoshi@gmail.com",
-"gender": men,
-},
-{
-"name": "Lisa",
-"age": 22,
-"email": "Lisa@gmail.com",
-"dancer": women,
-},
-{
-"name": "SXo",
-"age": 24,
-"email": "SXogmail.com",
-"dancer": women,
-},
-{
-"name": "Sungkwan",
-"age": 22,
-"email": "Sungkwan@gmail.com",
-"isPresent": women,
-}
-]
+  "Kpop": [
+    {
+      "name": "Hoshi",
+      "age": 21,
+      "email": "Hoshi@gmail.com",
+      "gender": "men"
+    },
+    {
+      "name": "Lisa",
+      "age": 22,
+      "email": "Lisa@gmail.com",
+      "gender": "women",
+      "dancer": true
+    },
+    {
+      "name": "SXo",
+      "age": 24,
+      "email": "SXo@gmail.com",
+      "gender": "women",
+      "dancer": true
+    },
+    {
+      "name": "Sungkwan",
+      "age": 22,
+      "email": "Sungkwan@gmail.com",
+      "gender": "men",
+      "isPresent": true
+    }
+  ]
 }
