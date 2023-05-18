@@ -1,0 +1,28 @@
+{
+"students": [
+{
+"name": "Dinamling",
+"age": 31,
+"email": "Dinamling@gmail.com",
+"Dancer?": Yes,
+},
+{
+"name": "Algreen",
+"age": 69,
+"email": "Algreen@gmail.com",
+"Dancer?": Yes,
+},
+{
+"name": "Sungkwan",
+"age": 24,
+"email": "Sungkwan@gmail.com",
+"Dancert": no,
+},
+{
+"name": "Boji",
+"age": 22,
+"email": "Boji@gmail.com",
+"dancer": maybe,
+}
+]
+}
